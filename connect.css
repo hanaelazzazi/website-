@@ -1,0 +1,16 @@
+div {
+color: red;
+font-family: Arial;
+font-size: 24pt;
+}
+
+p{
+color: pink; 
+text-align: center;
+font-size:20pt;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
